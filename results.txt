@@ -1,0 +1,11 @@
+Nicole Hipolito, Carlos Huizar, Mavey Ma, Mario Martinez.
+Mean for data1: 18757.00
+Mean for data2: -nan
+Max value for data1: 21000
+Max value for data2: 624
+Min value for data1: 17391
+Min value for data2: 624
+Variance for data1: 1279873.00
+Variance for data2: -nan
+Standard Deviation for data1: 15363.06
+Standard Deviation for data2: -nan
